@@ -12,8 +12,7 @@ const Header = (props: Props) => {
       <Image source={{uri: 'http://xsgames.co./randomusers/avatar.php?g=male'}} style={styles.userImg} />
       <View style={{gap: 3}}>
         <Text style={styles.welcomeTxt}>
-          Welcome bro
-          !
+          Welcome!
         </Text>
         <Text style={styles.userName}>John Doe</Text>
       </View>
